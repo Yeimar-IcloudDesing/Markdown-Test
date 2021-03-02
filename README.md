@@ -21,6 +21,10 @@ Hay que buscar la forma mas sencilla y eficiente de resolverlo y una de esas es 
 [Descargar Python](https://python.org "Enlace al recurso")
 
 O lo puedes instalar desde la terminal ***Solo para los que tienen aldministrador de paquetes*** *chocolatey*
+```bash
+Choco install python3
+```
+
 
 ---
 
@@ -49,5 +53,7 @@ create table victima(id int,);
 * [x] Task2
 * [ ] Task3
 * [ ] Task4
-* [ ] 
+* [ ] Task5
+  
+  @yeimar :smiley : +1
 > Lo complicado de la vidad es lo facil de vivirla
